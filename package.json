@@ -1,14 +1,14 @@
 {
-  "name": "echo-editor",
+  "name": "echo-editor-in",
   "version": "0.4.1",
   "private": false,
   "license": "MIT",
   "description": "A modern WYSIWYG rich-text editor using tiptap for Vue.js",
-  "author": "SEED<hello.mr.lji@gmail.com>",
-  "homepage": "https://github.com/Seedsa/echo-editor/",
+  "author": "",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Seedsa/echo-editor/"
+    "url": ""
   },
   "scripts": {
     "dev": "vite",
